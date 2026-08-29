@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
