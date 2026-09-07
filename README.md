@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0680-valid-palindrome-ii](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
