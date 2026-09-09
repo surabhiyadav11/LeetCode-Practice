@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/surabhiyadav11/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
